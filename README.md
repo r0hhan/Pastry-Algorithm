@@ -1,9 +1,9 @@
 # Pastry-Algorithm
 
-Rohit Choudhari  
-UFID: 5699 6044  
-Rohan Hemant Wanare  
-UFID: 4511 0561
+Rohit Choudhari   &emsp;  &nbsp; Rohan Hemant Wanare  
+[@InfernapeXavier](https://github.com/InfernapeXavier)   &emsp; [@r0hhan](https://github.com/r0hhan)
+
+
 
 > Inputs: numNodes, numRequests <br>
 > Requirements: `Akka.Fsharp` <br>
